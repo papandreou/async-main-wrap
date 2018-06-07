@@ -11,6 +11,7 @@
   },
   "author": "Gustav Nikolaj <gustavnikolaj@gmail.com>",
   "license": "ISC",
+  "repository": "github:gustavnikolaj/async-main-wrap",
   "files": [
     "lib/asyncMainWrap.js"
   ],
