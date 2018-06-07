@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+const main = require("./forwardArgs-main");
+const asyncMainWrap = require("../../asyncMainWrap");
+
+asyncMainWrap(main)(...process.argv.slice(2));
