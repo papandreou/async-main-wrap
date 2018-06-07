@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+require = require("esm")(module); // eslint-disable-line no-global-assign
+const { default: main } = require("./esm-main");
+const asyncMainWrap = require("../../asyncMainWrap");
+
+asyncMainWrap(main)();
