@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+const main = require("./exitCode-main");
+const asyncMainWrap = require("../../asyncMainWrap");
+
+asyncMainWrap(main)();
