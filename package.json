@@ -1,7 +1,7 @@
 {
   "name": "@gustavnikolaj/async-main-wrap",
   "version": "0.0.0",
-  "description": "",
+  "description": "Simple CLI tool wrapper.",
   "main": "lib/asyncMainWrap.js",
   "scripts": {
     "coverage": "jest --coverage",
@@ -9,8 +9,7 @@
     "test": "jest",
     "test-watch": "jest --watch"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Gustav Nikolaj <gustavnikolaj@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^4.19.1",
