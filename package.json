@@ -11,6 +11,9 @@
   },
   "author": "Gustav Nikolaj <gustavnikolaj@gmail.com>",
   "license": "ISC",
+  "files": [
+    "lib/asyncMainWrap.js"
+  ],
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-pretty-standard": "^1.4.1",
