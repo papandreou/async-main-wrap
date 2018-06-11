@@ -1,6 +1,6 @@
 {
   "name": "@gustavnikolaj/async-main-wrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple CLI tool wrapper.",
   "main": "lib/asyncMainWrap.js",
   "scripts": {
