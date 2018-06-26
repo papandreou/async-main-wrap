@@ -1,5 +1,7 @@
 # Async main wrap
 
+[![Build Status](https://travis-ci.com/gustavnikolaj/async-main-wrap.svg?branch=master)](https://travis-ci.com/gustavnikolaj/async-main-wrap)
+
 A simple utility to base cli tools on async methods.
 
 ```js
