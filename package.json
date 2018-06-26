@@ -22,7 +22,7 @@
     "eslint-plugin-prettier": "^2.6.0",
     "esm": "^3.0.48",
     "jest": "^23.1.0",
-    "prettier": "^1.13.4",
+    "prettier": "^1.13.6",
     "unexpected": "^10.38.0"
   }
 }
