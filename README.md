@@ -59,7 +59,7 @@ wrap(main)(process.argv.slice(2), console);
 // main.js
 
 module.exports = async function cliTool(args, console) {
-  const name = args[0] || world);
+  const name = args[0] || 'world';
 
   console.log(`Hello, ${name}!`);
 };
